@@ -1,0 +1,5 @@
+CONJUR_ACCOUNT=conjur
+CONJUR_APPLIANCE_URL=https://atltestinglabs.secretsmgr.cyberark.cloud/api
+CONJUR_AUTHN_API_KEY=a7qxsr1xx27x02t7k7fv1g6fvcv3q0hkgz15vnfw932e93j02vaahz1
+CONJUR_AUTHN_LOGIN=host/data/demojenkinspolicy/demojenkinshost
+SPRING_PROFILES_ACTIVE=test
